@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.0</version>
-    <url></url>
-    <changelog></changelog>
+    <url>https://github.com/NViveiros/BibliaDigital-Update/releases/download/v1.0.0/bibliadigital.zip</url>
+    <changelog>https://raw.githubusercontent.com/NViveiros/BibliaDigital-Update/refs/heads/main/notas.html</changelog>
     <mandatory>false</mandatory>
 </item>
