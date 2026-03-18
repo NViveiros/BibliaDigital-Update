@@ -2,6 +2,6 @@
 <item>
     <version>1.0.0.1</version>
     <url>https://github.com/NViveiros/BibliaDigital-Update/releases/download/v1.0.0/bibliadigital.zip</url>
-    <changelog>https://raw.githubusercontent.com/NViveiros/BibliaDigital-Update/refs/heads/main/notas.html</changelog>
+    <changelog>https://nviveiros.github.io/BibliaDigital-Update/notas.html</changelog>
     <mandatory>false</mandatory>
 </item>
